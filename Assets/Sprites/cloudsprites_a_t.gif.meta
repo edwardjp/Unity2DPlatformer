@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 9115bb64f2759a8448fa821b67a9e201
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloudsprites_a_t_0
+    21300002: cloudsprites_a_t_1
+    21300004: cloudsprites_a_t_2
+    21300006: cloudsprites_a_t_3
+    21300008: cloudsprites_a_t_4
+    21300010: cloudsprites_a_t_5
+    21300012: cloudsprites_a_t_6
+    21300014: cloudsprites_a_t_7
+    21300016: cloudsprites_a_t_8
+    21300018: cloudsprites_a_t_9
+    21300020: cloudsprites_a_t_10
+    21300022: cloudsprites_a_t_11
+    21300024: cloudsprites_a_t_12
+    21300026: cloudsprites_a_t_13
+    21300028: cloudsprites_a_t_14
+    21300030: cloudsprites_a_t_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cloudsprites_a_t_0
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 113
+        width: 101
+        height: 125
+      alignment: 9
+      pivot: {x: .814957142, y: .354427725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 116
+        width: 87
+        height: 120
+      alignment: 9
+      pivot: {x: .768734992, y: .331779987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 239
+        width: 104
+        height: 82
+      alignment: 9
+      pivot: {x: .665246248, y: .463015288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 237
+        width: 93
+        height: 83
+      alignment: 9
+      pivot: {x: .725895643, y: .501380622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 236
+        width: 90
+        height: 84
+      alignment: 9
+      pivot: {x: .735881209, y: .46389553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 236
+        width: 99
+        height: 81
+      alignment: 9
+      pivot: {x: .711540163, y: .477240294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 240
+        width: 103
+        height: 77
+      alignment: 9
+      pivot: {x: .706109822, y: .460613698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 121
+        width: 91
+        height: 83
+      alignment: 9
+      pivot: {x: .66489476, y: .461259782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 117
+        width: 83
+        height: 90
+      alignment: 9
+      pivot: {x: .680788338, y: .500000179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 118
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: .843693435, y: .476181865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 116
+        width: 89
+        height: 116
+      alignment: 9
+      pivot: {x: .783228159, y: .361403227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 96
+        height: 100
+      alignment: 9
+      pivot: {x: .679017067, y: .479781598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudsprites_a_t_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 12
+        width: 92
+        height: 88
+      alignment: 9
+      pivot: {x: .642847478, y: .431073695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

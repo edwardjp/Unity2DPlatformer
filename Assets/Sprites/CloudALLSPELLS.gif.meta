@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 96dfbe297b2b5ee48b547094427a0b48
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CloudALLSPELLS_0
+    21300002: CloudALLSPELLS_1
+    21300004: CloudALLSPELLS_2
+    21300006: CloudALLSPELLS_3
+    21300008: CloudALLSPELLS_4
+    21300010: CloudALLSPELLS_5
+    21300012: CloudALLSPELLS_6
+    21300014: CloudALLSPELLS_7
+    21300016: CloudALLSPELLS_8
+    21300018: CloudALLSPELLS_9
+    21300020: CloudALLSPELLS_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CloudALLSPELLS_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 434
+        width: 32
+        height: 84
+      alignment: 9
+      pivot: {x: .499999881, y: .318230391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 434
+        width: 33
+        height: 98
+      alignment: 9
+      pivot: {x: .499999762, y: .276284367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 434
+        width: 28
+        height: 85
+      alignment: 9
+      pivot: {x: .444071084, y: .311157227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 435
+        width: 57
+        height: 73
+      alignment: 9
+      pivot: {x: .5, y: .34983471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 435
+        width: 70
+        height: 66
+      alignment: 9
+      pivot: {x: .505592763, y: .381362438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 432
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 433
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 432
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 434
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 430
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloudALLSPELLS_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

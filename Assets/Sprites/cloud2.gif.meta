@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: c3f8935cd859b46448823686f3968a51
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloud2_0
+    21300002: cloud2_1
+    21300004: cloud2_2
+    21300006: cloud2_3
+    21300008: cloud2_4
+    21300010: cloud2_5
+    21300012: cloud2_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cloud2_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 455
+        width: 76
+        height: 75
+      alignment: 9
+      pivot: {x: .702951729, y: .35762167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 451
+        width: 75
+        height: 90
+      alignment: 9
+      pivot: {x: .389261276, y: .302251846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 446
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 448
+        width: 108
+        height: 90
+      alignment: 9
+      pivot: {x: .730705798, y: .486816406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 450
+        width: 99
+        height: 108
+      alignment: 9
+      pivot: {x: .703740001, y: .46704185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 443
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud2_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 434
+        width: 90
+        height: 116
+      alignment: 9
+      pivot: {x: .369249821, y: .449277937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
